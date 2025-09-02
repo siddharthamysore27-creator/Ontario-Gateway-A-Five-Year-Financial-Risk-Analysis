@@ -11,4 +11,9 @@ This project analyzes the financial risks of four insurance plans — RCNC1, RCN
 Based on the analysis, the RCNC2 plan is recommended for Ontario Gateway. It provides the most effective balance of cost and risk, with the lowest overall average cost. While the CTC plan offers slightly more stability in costs, the substantial savings provided by RCNC2 make it the superior choice for the company.
 
 # Repository Contents
-Ontario_Gateway.pdf
+Case_Ontario_Gateway.pdf :PDF document providing an overview of the case study and methodology.
+Ontario_Gateway.ipynb : Jupyter notebook detailing the analysis.
+
+# Technologies
+Techstack: Python
+Libraries: Numpy, Pandas, Matplotlib
