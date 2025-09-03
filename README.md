@@ -17,3 +17,6 @@ Based on the analysis, the RCNC2 plan is recommended for Ontario Gateway. It pro
 # Technologies
 * Techstack: Python
 * Libraries: Numpy, Pandas, Matplotlib
+
+# License
+[MIT](https://github.com/siddharthamysore27-creator/Ontario-Gateway-A-Five-Year-Financial-Risk-Analysis/blob/main/LICENSE)
