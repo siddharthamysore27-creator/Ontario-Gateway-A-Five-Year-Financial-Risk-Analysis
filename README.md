@@ -15,5 +15,5 @@ Based on the analysis, the RCNC2 plan is recommended for Ontario Gateway. It pro
 * [Ontario_Gateway.ipynb](https://github.com/siddharthamysore27-creator/Ontario-Gateway-A-Five-Year-Financial-Risk-Analysis/blob/main/Ontario_Gateway.ipynb): Jupyter notebook detailing the analysis.
 
 # Technologies
-Techstack: Python
-Libraries: Numpy, Pandas, Matplotlib
+* Techstack: Python
+* Libraries: Numpy, Pandas, Matplotlib
